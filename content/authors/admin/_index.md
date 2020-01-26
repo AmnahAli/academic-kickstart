@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Amnah Abd-El-Rahman
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science, M.S.
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Texas at Arlington 
+  url: "https://www.uta.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Amnah is currently a graduate student at UTA in Computer Science departemt. She was a lecturer in the Department of Mathematics, Faculty of Education, University of Khartoum, Sudan. She graduated with B.Sc. (Honors) degree in Mathematics and Computer Science, Faculty of Mathematical Sciences, Khartoum University in August 2009. Then, she obtained her M.Sc. degree in Computer Sciences, from faculty of Mathematical sciences, University of Khartoum in May 2011. Then she obtained her M.Sc. degree in Mathematical Sciences, from African Institute for Mathematical sciences, AIMS-Tanzania in August 2015. Her research interests are in Machine Learning methods, Big Data, Mobile Agent and Steganography.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning/ Deep Learning
+- Data Science
+- Big Data
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: M.Sc. in Mathematical Sciences
+    institution: African Institute for Mathematical sciences, AIMS-Tanzania
+    year: 2015
+  - course: M.Sc. in Computer Sciences
+    institution: University of Khartoum
+    year: 2011
+  - course: B.Sc. in Mathematics and Computer Science
+    institution: University of Khartoum
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
