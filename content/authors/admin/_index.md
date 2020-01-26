@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Amnah is currently a graduate student at UTA in Computer Science departemt. She was a lecturer in the Department of Mathematics, Faculty of Education, University of Khartoum, Sudan. She graduated with B.Sc. (Honors) degree in Mathematics and Computer Science, Faculty of Mathematical Sciences, Khartoum University in August 2009. Then, she obtained her M.Sc. degree in Computer Sciences, from faculty of Mathematical sciences, University of Khartoum in May 2011. Then she obtained her M.Sc. degree in Mathematical Sciences, from African Institute for Mathematical sciences, AIMS-Tanzania in August 2015. Her research interests are in Machine Learning methods, Big Data, Mobile Agent and Steganography.
