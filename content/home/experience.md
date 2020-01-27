@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "University of Tabuk"
   company_url = "https://www.ut.edu.sa/web/university"
   location = "Saudi Arabia"
-  date_start = "2015-2-08"
+  date_start = "2015-08-02"
   date_end = "2016-14-01"
   description = """
   
@@ -46,32 +46,5 @@ date_format = "Jan 2006"
   * Assessing students' strengths and weaknesses and planning teaching instructions accordingly
   * Researching and preparing teaching materials and demonstrating each logical step in computer programming """
   
-[[experience]]
-  title = "Lecturer"
-  company = "University of Khartoum"
-  company_url = "https://uofk.edu/en/"
-  location = "Sudan"
-  date_start = "2011-23-08"
-  date_end = "2014-10-02"
-  description = """
-  
-  * Taught Mathematics classes at the undergraduate level:
-    An Introduction to Computer Sciences Computer Programming using C++,Introduction to Algebra, Matlab and Discrete   Mathematics.
-  * In addition to the time spent in the classroom, I prepared classes,    written lectures or create slides, created homework and exams, grade, and respond to student questions in person and through email. 
-  * Supervised Undergraduate Research Projects, they engage in such projects to help students learn and to train them to do research.
-  * Designed new courses at the undergraduate levels and updating the curriculum requirements for various degrees """
-  
-[[experience]]
-  title = "Teaching Assistant/ Computer Lab Specialist"
-  company = "University of Khartoum"
-  company_url = "https://uofk.edu/en/"
-  location = "Sudan"
-  date_start = "2009-05-08"
-  date_end = "2014-26-02"
-  description = """ 
-  
-  * Assistance in the area of:
-  Algebra, primary statistical and special functions, Math methods, Computer Programming Language (Java), modelling and     simulation with Matlab, system analyses and design.
-  * In Charge of the laboratory department of mathematics """
- 
+
 +++
