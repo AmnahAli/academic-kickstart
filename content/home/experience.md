@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Python Developer"
   company = "Entuc"
-  company_url = "https://www.entuc.com"
+  # company_url = "https://www.entuc.com"
   location = "Texas"
-  date_start = "Jun 2016"
-  date_end = "Nov 2017"
+  date_start = "01-01-2016"
+  date_end = "01-01-2017"
   description = """ Clients that I worked with is ClubCorp:
   
  * Implement forecasting model using Scikit-Learn to generate reports
