@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Python Developer"
   company = "Entuc"
-  # company_url = "https://www.entuc.com"
+  company_url = ""
   location = "Texas"
   date_start = "01-01-2016"
   date_end = "01-01-2017"
