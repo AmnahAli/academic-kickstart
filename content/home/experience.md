@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ut.edu.sa/web/university"
   location = "Saudi Arabia"
   date_start = "2015-08-02"
-  date_end = "2016-14-01"
+  date_end = "2016-01-14"
   description = """
   
   * Planning, preparing, and delivering lessons at the undergraduate level included in Mathematics and computer science           courses:
