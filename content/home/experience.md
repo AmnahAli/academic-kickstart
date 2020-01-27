@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Entuc"
   company_url = "https://www.entuc.com"
   location = "Texas"
-  date_start = "June 2016"
-  date_end = "November 2017"
+  date_start = "Jun 2016"
+  date_end = "Nov 2017"
   description = """ Clients that I worked with is ClubCorp:
   
  * Implement forecasting model using Scikit-Learn to generate reports
