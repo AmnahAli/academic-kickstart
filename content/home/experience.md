@@ -59,7 +59,7 @@ An Introduction to Computer Sciences Computer Programming using C++,Introduction
 * Designed new courses at the undergraduate levels and updating the curriculum requirements for various degrees. 
   """
   
-  [[experience]]
+[[experience]]
   title = "Teaching Assistant/ Computer Lab Specialist"
   company = "University of Khartoum"
   company_url = "https://uofk.edu/en/"
