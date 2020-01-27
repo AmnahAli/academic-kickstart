@@ -22,9 +22,10 @@ date_format = "Jan 2006"
   company = "Entuc"
   company_url = "https://www.entuc.com"
   location = "Texas"
-  date_start = "2016-06"
-  date_end = "2017-11"
+  date_start = "June 2016"
+  date_end = "November 2017"
   description = """ Clients that I worked with is ClubCorp:
+  
 * Implement forecasting model using Scikit-Learn to generate reports
 * Implement Pandas and NumPy libraries for Statistical Analysis
 * Implement the Python's modules NumPy, Pandas and Matplotlib for generating graphical data’s
@@ -35,9 +36,10 @@ date_format = "Jan 2006"
   company = "University of Tabuk"
   company_url = "https://www.ut.edu.sa/web/university"
   location = "Saudi Arabia"
-  date_start = "2015-08"
-  date_end = "2016-01"
+  date_start = "August 2015"
+  date_end = "January 2016"
   description = """
+  
   * Planning, preparing, and delivering lessons at the undergraduate level included in Mathematics and computer science courses:
    Probability Theory, Discrete Mathematics, General Statistic and Basic of Mathematic
   * Assessing students' strengths and weaknesses and planning teaching instructions accordingly
@@ -49,9 +51,10 @@ date_format = "Jan 2006"
   company = "University of Khartoum"
   company_url = "https://uofk.edu/en/"
   location = "Sudan"
-  date_start = "2011-08"
-  date_end = "2014-02"
+  date_start = "August 2011"
+  date_end = "February 2014"
   description = """
+  
 * Taught Mathematics classes at the undergraduate level:
 An Introduction to Computer Sciences Computer Programming using C++,Introduction to Algebra, Matlab and Discrete Mathematics.
 * In addition to the time spent in the classroom, I prepared classes,    written lectures or create slides, created homework and exams, grade, and respond to student questions in person and through email. 
@@ -64,9 +67,10 @@ An Introduction to Computer Sciences Computer Programming using C++,Introduction
   company = "University of Khartoum"
   company_url = "https://uofk.edu/en/"
   location = "Sudan"
-  date_start = "2009-08"
-  date_end = "2014-02"
+  date_start = "August 2009"
+  date_end = "February 2014"
   description = """ 
+  
   * Assistance in the area of:
   Algebra, primary statistical and special functions, Math methods, Computer Programming Language (Java), modelling and simulation with Matlab, system analyses and design.
   * In Charge of the laboratory department of mathematics.
