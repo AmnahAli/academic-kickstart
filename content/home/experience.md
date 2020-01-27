@@ -23,8 +23,8 @@ date_format = "Jan 2006"
    company = "Entuc"
    company_url = "https://www.entuc.com"
    location = "Texas"
-   date_start = "2016-01-01"
-   date_end = ""
+   date_start = "2016-01-06"
+   date_end = "2017-01-11"
    description = """
    Clients that I worked with is ClubCorp:
 
