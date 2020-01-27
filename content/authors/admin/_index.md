@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#amnah.abdelrahman@gmail.com'  # For a direct email link, use "amnah.abdelrhman@gmail.com".
+  link: 'amnah.abdelrahman@gmail.com'  # For a direct email link, use "amnah.abdelrhman@gmail.com".
   - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amnah-abdelrahman
