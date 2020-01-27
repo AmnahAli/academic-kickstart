@@ -23,13 +23,15 @@ date_format = "Jan 2006"
    company = "Entuc"
    company_url = "https://www.entuc.com"
    location = "Texas"
-   date_start = "2016-01-06"
-   date_end = "2017-01-11"
+   date_start = "2016-06"
+   date_end = "2017-11"
    description = """
    Clients that I worked with is ClubCorp:
 
    * Implement forecasting model using Scikit-Learn to generate reports
    * Implement Pandas and NumPy libraries for Statistical Analysis
    * Implement the Python's modules NumPy, Pandas and Matplotlib for generating graphical data’s """
+ 
+ 
  
 +++
