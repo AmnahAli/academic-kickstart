@@ -16,7 +16,7 @@ subtitle = ""
 
   
  [[feature]]
-  icon = "fa-calculator"
+  icon = "fas fa-calculator"
   icon_pack = "fas"
   name = "Math"
   description = "70%"
@@ -28,7 +28,7 @@ subtitle = ""
   description = "60%"  
   
 [[feature]]
-  icon = "fa-python"
+  icon = "fab fa-python"
   icon_pack = "fab"
   name = "Python"
   description = "85%"
@@ -46,7 +46,7 @@ subtitle = ""
   description = "40%"
   
   [[feature]]
-  icon = "fab fa-database"
+  icon = "fas fa-database"
   icon_pack = "fab"
   name = "MySQL"
   description = "60%"
