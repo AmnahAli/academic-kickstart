@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  
 [[experience]]
-   title = "CEO"
-   company = "GenCoin"
-   company_url = ""
-   location = "California"
-   date_start = "2017-01-01"
-   date_end = ""
+   title = "Python Developer"
+   company = "Entuc"
+   company_url = "https://www.entuc.com"
+   location = "Texas"
+   date_start = "Jun 2016"
+   date_end = "Nov 2017"
    description = """
-   Responsibilities include:
+   Clients that I worked with is ClubCorp:
 
-   * Analysing
-   * Modelling
-   * Deploying """
+   * Implement forecasting model using Scikit-Learn to generate reports
+   * Implement Pandas and NumPy libraries for Statistical Analysis
+   * Implement the Python's modules NumPy, Pandas and Matplotlib for generating graphical data’s """
  
 +++
