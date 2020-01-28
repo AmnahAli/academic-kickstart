@@ -23,10 +23,10 @@ board)(Cit, 2014)"
 # Custom links (optional).
 #  Uncomment and edit lines below to show custom links.
  links:
-# - name: Follow
-#   url: https://www.linkedin.com/in/amnah-abdelrahman/
-#   icon_pack: fab
-#   icon: linkedin
+ - name: Follow
+   url: https://www.linkedin.com/in/amnah-abdelrahman
+   icon_pack: fab
+   icon: linkedin
 
 url_code: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
 url_pdf: ""
