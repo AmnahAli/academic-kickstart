@@ -9,7 +9,7 @@ categories: []
 date: 2020-01-28T06:04:11-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
 url_pdf: ""
 url_slides: ""
 url_video: ""
