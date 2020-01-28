@@ -22,7 +22,7 @@ board)(Cit, 2014)"
 
 # Custom links (optional).
 #  Uncomment and edit lines below to show custom links.
-# links:
+ links:
 # - name: Follow
 #   url: https://www.linkedin.com/in/amnah-abdelrahman/
 #   icon_pack: fab
