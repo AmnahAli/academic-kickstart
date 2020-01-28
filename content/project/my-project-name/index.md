@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name"
-summary: ""
+title: "Forecast use of a City Bikeshare System"
+summary: " Predict the demands on the stations every hour for efficient utilization and control the system to balance the needs of customers and bike availability. The project include data analysis and used model selection and evaluation techniques to build a prediction model with higher accuracy. The data from the City Bike Sharing System (CaBi) in Washington D.C., for 2011 and 2012."
 authors: []
 tags: []
 categories: []
 date: 2020-01-28T06:04:11-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
