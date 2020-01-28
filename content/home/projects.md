@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+   #  tag = "Deep Learning"
   
   # [[content.filter_button]]
   #  name = "Other"
@@ -45,7 +45,7 @@ subtitle = ""
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
