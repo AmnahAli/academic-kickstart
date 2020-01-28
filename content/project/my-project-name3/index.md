@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Monitoring System using Mobile Agent"
-summary: ""
+summary: "Mobile Agent"
 authors: []
 tags: []
 categories: []
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "http://www.magnetic-it.com/en/it-services/soc-res-2/"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Abstarct:
+The world we are living in has become more like a small village because of the information revolution and the technology, to prevent the dangers that could appear under those circumstances, the idea of monitoring systems invented. Monitoring systems provide a powerful technique used to control,observe and manage systems, In order to increase the system performance. In this thesis we describe and implement an Application monitoring system that is able to get specific information and monitor a running (active) applications in remote machines in a network , employing the mobile agent technique to reduce time,efforts and minimize operation costs needed to monitor a system , and provide convenient way for managing and controlling the system .
