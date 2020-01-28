@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Forecast use of a City Bikeshare System"
-summary: " Predict the demands on the stations every hour for efficient utilization and control the system to balance the needs of customers and bike availability. The project include data analysis and used model selection and evaluation techniques to build a prediction model with higher accuracy. The data from the City Bike Sharing System (CaBi) in Washington D.C., for 2011 and 2012."
+title: "Data Analysis and Machine Learning"
+summary: "Forecast use of a City Bikeshare System"
 authors: []
 tags: []
 categories: []
@@ -15,7 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Capital Bike station in Washington D.C. (credit: Kaid Benfield’s Blog on NRDC Switch-
+board)(Cit, 2014)"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +40,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Predict the demands on the stations every hour for efficient utilization and control the system to balance the needs of customers and bike availability. The project include data analysis and used model selection and evaluation techniques to build a prediction model with higher accuracy. The data from the City Bike Sharing System (CaBi) in Washington D.C., for 2011 and 2012.
