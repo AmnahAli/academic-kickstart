@@ -22,11 +22,22 @@ board)(Cit, 2014)"
 
 # Custom links (optional).
 #  Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://www.linkedin.com/in/amnah-abdelrahman
-#   icon_pack: fab
-#   icon: linkedin
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:amnah.abdelrahman@gmail.com'  # For a direct email link, use "amnah.abdelrhman@gmail.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/amnah-abdelrahman
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/amnaabdraheemali
+- icon: skype
+  icon_pack: fab
+  link: https://join.skype.com/invite/C9cx20q5bebs
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AmnahAli
 
 url_code: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
 url_pdf: ""
