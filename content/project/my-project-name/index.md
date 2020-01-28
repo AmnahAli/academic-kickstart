@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Data Analysis and Machine Learning"
-summary: "Forecast use of a City Bikeshare System"
+title: "Forecast use of a City Bikeshare System"
+summary: "Data Analysis and Machine Learning"
 authors: []
 tags: []
 categories: []
@@ -23,10 +23,10 @@ board)(Cit, 2014)"
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ - name: Follow
+   url: https://www.linkedin.com/in/amnah-abdelrahman/
+   icon_pack: fab
+   icon: LinkedIn
 
 url_code: "https://github.com/amnahamis/Bike_Sharing_Kaggle"
 url_pdf: ""
