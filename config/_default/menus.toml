@@ -20,10 +20,9 @@
 
 [[main]]
   name = "Resume"
-  url = "img/cv.pdf"
+  external_link: = "img/cv.pdf"
   weight = 40
-  # Optional external URL for project (replaces project detail page).
-  external_link: ""
+  
 
 [[main]]
   name = "LinkedIn"
