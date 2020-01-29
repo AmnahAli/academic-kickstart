@@ -21,7 +21,12 @@
 [[main]]
   name = "Resume"
   url = "img/cv.pdf"
-  weight = 40
+  #weight = 40
+
+[[main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/amnah-abdelrahman/"
+  #weight = 40
 
 [[main]]
   name = "Contact"
