@@ -15,4 +15,4 @@ menu_title = "#2b2b2b"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(0, 0, 102)"
+home_section_even = "rgb(148, 148, 184)"
