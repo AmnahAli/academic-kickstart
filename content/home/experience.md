@@ -83,8 +83,7 @@ date_format = "Jan 2006"
   location = "Sudan"
   date_start = "2012-01-01"
   date_end = "2012-31-02"
-  description = ""Joint different IT departments in the bank" 
-   """
+  description = """Joint different IT departments in the bank"""
 
 +++
 
