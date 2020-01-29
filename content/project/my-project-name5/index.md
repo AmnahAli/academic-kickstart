@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Using k-means clustering and the Foursquare API to segment and cluster the neighborhoods of UpTown Dallas with their geodata (latitud and longitud) to look of apartments for rent in Uptown area (price, life style, shopping, and venues). 
+Using k-means clustering and the Foursquare API to segment and cluster the neighborhoods of UpTown Dallas with their geodata (latitud and longitud) to find apartments for rent in Uptown area (based on price, life style, shopping, and venues). 
