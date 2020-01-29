@@ -76,6 +76,14 @@ date_format = "Jan 2006"
 
 
 
+[[experience]]
+  title = "Trainee"
+  company = "The Sudanese Islamic Bank"
+  company_url = "https://cbos.gov.sd/en/content/sudanese-islamic-bank"
+  location = "Sudan"
+  date_start = "2012-01-01"
+  date_end = "2012-01-31"
+  description = """ Joint different IT departments in the bank """
 
 +++
 
