@@ -39,6 +39,12 @@ subtitle = ""
   name = "Web Development"
   description = "Joomla 60%, Django 70%, FrontPage 50%, Dreamweaver 65%"
   
+ [[feature]]
+  icon = "fas fa-cogs"
+  icon_pack = "fas"
+  name = "Application"
+  description = "Zeppelin Notebook 80%, JupyterLab 90%, GitHub 90%, MathLab 90%"
+  
 [[feature]]
   icon = "fas fa-robot"
   icon_pack = "fas"
