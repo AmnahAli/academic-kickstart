@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Resume"
-  external_link = "img/cv.pdf"
+  url = "img/cv.pdf"
   weight = 40
   
 
