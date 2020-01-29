@@ -28,17 +28,10 @@ subtitle = ""
   description = "75%"  
   
 [[feature]]
-  icon = "fas fa-coden"
+  icon = "fas fa-code"
   icon_pack = "fas"
   name = "Programming"
   description = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%, SQL 80%"
-  
- [[feature]]
-  icon = "fas fa-database"
-  icon_pack = "fas"
-  name = "Database Appliaction"
-  description = "MySQL 80%"
-  
  
  [[feature]]
   icon = "fas fa-desktop"
@@ -50,5 +43,5 @@ subtitle = ""
   icon = "fas fa-robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Regression, Ensemble method, Model selection and evaluation"  
+  description = "Regression 95%, Ensemble method 80%, Model selection and evaluation 80%"  
 +++
