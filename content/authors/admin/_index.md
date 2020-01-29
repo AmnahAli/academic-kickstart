@@ -21,7 +21,8 @@ organizations:
 bio: Amnah is currently a graduate student at UTA in Computer Science departemt. She was a lecturer in the Department of Mathematics, Faculty of Education, University of Khartoum, Sudan. She graduated with B.Sc. (Honors) degree in Mathematics and Computer Science, Faculty of Mathematical Sciences, Khartoum University in August 2009. Then, she obtained her M.Sc. degree in Computer Sciences, from faculty of Mathematical sciences, University of Khartoum in May 2011. Then she obtained her M.Sc. degree in Mathematical Sciences, from African Institute for Mathematical sciences, AIMS-Tanzania in August 2015. Her research interests are in Machine Learning methods, Big Data, Mobile Agent and Steganography.
 
 interests:
-- Machine Learning/ Deep Learning
+- Machine Learning
+- Deep Learning
 - Data Science
 - Big Data
 
