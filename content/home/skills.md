@@ -19,23 +19,36 @@ subtitle = ""
   icon = "fas fa-calculator"
   icon_pack = "fas"
   name = "Math"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "60%"  
+  description = "75%"  
   
 [[feature]]
   icon = "fas fa-coden"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%"
+  description = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%, SQL 80%"
   
-  [[feature]]
+ [[feature]]
   icon = "fas fa-database"
   icon_pack = "fas"
-  name = "MySQL"
-  description = "60%"
+  name = "Database Appliaction"
+  description = "MySQL 80%"
+  
+ 
+ [[feature]]
+  icon = "fas fa-desktop"
+  icon_pack = "fas"
+  name = "Web Development"
+  description = "Joomla 60%, Django 70%, FrontPage 50%, Dreamweaver 65%"
+  
+[[feature]]
+  icon = "fas fa-robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Regression, Ensemble method, Model selection and evaluation"  
 +++
