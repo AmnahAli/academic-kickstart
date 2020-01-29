@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Technical Skills"
+title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -28,22 +28,10 @@ subtitle = ""
   description = "60%"  
   
 [[feature]]
-  icon = "fab fa-python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "85%"
-
-[[feature]]
-  icon = "fab fa-cuttlefish"
-  icon_pack = "fab"
-  name = "C/C++"
-  description = "80%"
-  
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "40%"
+  icon = "fas fa-coden"
+  icon_pack = "fas"
+  name = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%"
+ # description = "85%"
   
   [[feature]]
   icon = "fas fa-database"
