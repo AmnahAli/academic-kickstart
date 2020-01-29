@@ -30,8 +30,8 @@ subtitle = ""
 [[feature]]
   icon = "fas fa-coden"
   icon_pack = "fas"
-  name = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%"
- # description = "85%"
+  name = "Programming"
+  description = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%"
   
   [[feature]]
   icon = "fas fa-database"
