@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: M.Sc. in Computer Science
+    institution: University of Texas at Arlington
+    year: 2019 - current
   - course: M.Sc. in Mathematical Sciences
     institution: African Institute for Mathematical sciences, AIMS-Tanzania
     year: 2015
