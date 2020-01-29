@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   
   * Taught Mathematics classes at the undergraduate level:
     An Introduction to Computer Sciences Computer Programming using C++,Introduction to Algebra, Matlab and Discrete   Mathematics.
-  * In addition to the time spent in the classroom, I prepared classes,    written lectures or create slides, created homework and exams, grade, and respond to student questions in person and through email. 
+  * prepared classes,    written lectures or create slides, created homework and exams, grade, and respond to student questions in person and through email. 
   * Supervised Undergraduate Research Projects, they engage in such projects to help students learn and to train them to do research.
   * Designed new courses at the undergraduate levels and updating the curriculum requirements for various degrees """
   
@@ -71,7 +71,20 @@ date_format = "Jan 2006"
   description = """ 
   
   * Assistance in the area of:
-  Algebra, primary statistical and special functions, Math methods, Computer Programming Language (Java), modelling and     simulation with Matlab, system analyses and design.
+  Algebra, primary statistical and special functions, Math methods, Computer Programming Language (Java), modelling and       simulation with Matlab, system analyses and design.
   * In Charge of the laboratory department of mathematics """
 
+
+
+[[experience]]
+  title = "Trainee"
+  company = "The Sudanese Islamic Bank"
+  company_url = "https://cbos.gov.sd/en/content/sudanese-islamic-bank"
+  location = "Sudan"
+  date_start = "2012-01-01"
+  date_end = "2012-31-02"
+  description = ""Joint different IT departments in the bank" 
+   """
+
 +++
+
