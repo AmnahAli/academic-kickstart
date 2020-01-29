@@ -19,11 +19,11 @@
   weight = 30
 
 [[main]]
-  # Optional external URL for project (replaces project detail page).
-  external_link: ""
   name = "Resume"
   url = "img/cv.pdf"
   weight = 40
+  # Optional external URL for project (replaces project detail page).
+  external_link: ""
 
 [[main]]
   name = "LinkedIn"
