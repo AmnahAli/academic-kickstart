@@ -12,7 +12,7 @@
 theme = "my_theme"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Amnah Abdelrahman Profile"
 
 ############################
 ## Site Features
@@ -105,8 +105,8 @@ coordinates = {latitude = "32.733587", longitude = "-97.116009"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "facebook", icon_pack = "fab", name = "Visite me",link = "https://www.facebook.com/amnaabdraheemali"},
-  {icon = "skype", icon_pack = "fab", name = "https://join.skype.com/invite/C9cx20q5bebs"},
+  {icon = "facebook", icon_pack = "fab", name = "Follow on FaceBook",link = "https://www.facebook.com/amnaabdraheemali"},
+  {icon = "skype", icon_pack = "fab", name = "Connect on Skype", link= "https://join.skype.com/invite/C9cx20q5bebs"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
