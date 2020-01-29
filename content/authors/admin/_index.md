@@ -33,13 +33,13 @@ education:
     year: 2019 - present
   - course: M.Sc. in Mathematical Science
     institution: African Institute for Mathematical sciences, AIMS-Tanzania
-    year: 2014 - 2015
+    year: 2015
   - course: M.Sc. in Computer Science
     institution: University of Khartoum
-    year: 2010 - 2011
+    year: 2011
   - course: B.Sc. in Mathematical and Computer Science
     institution: University of Khartoum
-    year: 2004 - 2009
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
