@@ -1,36 +1,38 @@
+
 +++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Contact widget.
+widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 130  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
 
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# Automatically link email and phone?
+autolink = true
 
-  
- [[feature]]
-  icon = "fas fa-calculator"
-  icon_pack = "fas"
-  name = "Math & Statistics"
-  description = ""
-  
-[[feature]]
-  icon = "fas fa-code"
-  icon_pack = "fas"
-  name = "Programming"
-  description = "Python 85%, C/C++ 80%, R 40%, VB.Net 70%, SQL 80%"
- 
- [[feature]]
-  icon = "fas fa-desktop"
-  icon_pack = "fas"
-  name = "Web Development"
-  description = "Joomla 60%, Django 70%, FrontPage 50%, Dreamweaver 65%"
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 0
+
+ [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["10px", "0", "10px", "0"]
+
+
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = ""
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+   view = 3
 
 +++
