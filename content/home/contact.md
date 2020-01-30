@@ -35,21 +35,5 @@ email_form = 0
   #   5 = Showcase
    view = 3
 
-  
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:amnah.abdelrahman@gmail.com'  # For a direct email link, use "amnah.abdelrhman@gmail.com".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/amnah-abdelrahman
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/amnaabdraheemali
-- icon: skype
-  icon_pack: fab
-  link: https://join.skype.com/invite/C9cx20q5bebs
-- icon: github
-  icon_pack: fab
-  link: https://github.com/AmnahAli
 
 +++
