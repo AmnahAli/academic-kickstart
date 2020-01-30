@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Skills"
+title = "Contact"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -32,22 +32,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Web Development"
   description = "Joomla 60%, Django 70%, FrontPage 50%, Dreamweaver 65%"
-  
- [[feature]]
-  icon = "fas fa-cogs"
-  icon_pack = "fas"
-  name = "Application"
-  description = "Zeppelin Notebook 80%, JupyterLab 90%, GitHub 90%, MathLab 90%"
-  
-[[feature]]
-  icon = "fas fa-robot"
-  icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Regression 95%, Ensemble method 80%, Model selection and evaluation 80%"  
-  
-[[feature]]
-  icon = "fab fa-mixcloud"
-  icon_pack = "fab"
-  name = "Cloud Environment"
-  description = "IBM cloud, Amazon Web Services (AWS)"
+
 +++
