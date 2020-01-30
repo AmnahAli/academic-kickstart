@@ -46,8 +46,8 @@ subtitle = ""
   description = "Regression 95%, Ensemble method 80%, Model selection and evaluation 80%"  
   
 [[feature]]
-  icon = "fas fa-calculator"
-  icon_pack = "fas"
+  icon = "fab fa-mixcloud"
+  icon_pack = "fab"
   name = "Cloud Environment"
   description = "IBM cloud, Amazon Web Services (AWS)"
 +++
