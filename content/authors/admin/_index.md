@@ -22,7 +22,6 @@ bio: Amnah is currently a graduate student at UTA in Computer Science departemt.
 
 interests:
 - Machine Learning
-- Deep Learning
 - Data Science
 - Big Data
 
