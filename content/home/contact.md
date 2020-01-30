@@ -17,9 +17,9 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
-# [design.spacing]
+ [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-#  padding = ["20px", "0", "20px", "0"]
+  padding = ["10px", "0", "10px", "0"]
 
 
 
@@ -32,7 +32,7 @@ email_form = 0
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
 
 
