@@ -39,6 +39,16 @@ subtitle = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
+
+
+image:
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
+
+
+
 # [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
  # padding = ["20px", "0", "20px", "0"]
