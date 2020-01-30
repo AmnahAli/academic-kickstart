@@ -18,14 +18,8 @@ subtitle = ""
  [[feature]]
   icon = "fas fa-calculator"
   icon_pack = "fas"
-  name = "Math"
-  description = "80%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "75%"  
+  name = "Math & Statistics"
+  description = ""
   
 [[feature]]
   icon = "fas fa-code"
@@ -50,4 +44,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Regression 95%, Ensemble method 80%, Model selection and evaluation 80%"  
+  
+[[feature]]
+  icon = "fas fa-calculator"
+  icon_pack = "fas"
+  name = "Cloud Environment"
+  description = "IBM cloud, Amazon Web Services (AWS)"
 +++
