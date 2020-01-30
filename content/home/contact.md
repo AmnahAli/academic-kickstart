@@ -29,18 +29,21 @@ subtitle = ""
   icon_pack = "fas"
   name = "+1 (602)668-6101"
   description = ""
+  url ="+1 (602)668-6101"
   
    [[feature]]
   icon = "fas fa-map-marked-alt"
   icon_pack = "fas"
   name = "Univerity of Texas at Arlington, Arlington, TX 76013"
   description = ""
+   url ="https://www.google.com/maps/place/The+University+of+Texas+at+Arlington/@32.7291229,-97.1142801,17z/data=!3m1!4b1!4m5!3m4!1s0x864e7d6dabc9564d:0x6c5cbeb084c8b76a!8m2!3d32.7291229!4d-97.1120914"
   
  [[feature]]
   icon = "fab fa-facebook"
   icon_pack = "fab"
   name = "Visit in Facebook"
   description = ""
+  url="https://m.facebook.com/amnaabdraheemali"
 
   
 +++
