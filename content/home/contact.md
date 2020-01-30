@@ -21,5 +21,20 @@ email_form = 0
   # Customize the section spacing. Order is top, right, bottom, left.
 #  padding = ["20px", "0", "20px", "0"]
 
+
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "5"
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3 
+
+
+
 +++
 
