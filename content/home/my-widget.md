@@ -1,12 +1,18 @@
 +++
-widget = "awesome"  # The name of the widget that you created.
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear in.
 
-[design.spacing]
+widget = "blank"
+headless = true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+
+# [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
   
 +++
 Everything is awesome!
