@@ -42,7 +42,6 @@ subtitle = ""
   description = ""
    url ="https://www.google.com/maps/place/The+University+of+Texas+at+Arlington/@32.7291229,-97.1142801,17z/data=!3m1!4b1!4m5!3m4!1s0x864e7d6dabc9564d:0x6c5cbeb084c8b76a!8m2!3d32.7291229!4d-97.1120914"
   
-  
 +++
 
 
