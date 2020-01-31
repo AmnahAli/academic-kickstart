@@ -22,6 +22,6 @@ subtitle = ""
    
 +++
 
-●  University of Khartoum Teaching Assistant Administration M.Sc. Scholarship, Sudan. 2010
+●  Next Einstein Initiative Scholarship for the African Institute for Mathematical Sciences (AIMS) 2014
 
-●  Next Einstein Initiative Scholarship for the African Institute for Mathematical Sciences (AIMS). 2014
+●  University of Khartoum Teaching Assistant Administration M.Sc. Scholarship, Sudan 2010
