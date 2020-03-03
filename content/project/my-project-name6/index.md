@@ -9,7 +9,7 @@ categories: []
 date: 2020-03-03T06:04:11-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
