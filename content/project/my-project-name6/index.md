@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Battle of Neighborhoods"
-summary: "Applied Data Science Capstone"
+title: "Real or Not? NLP with Disaster Tweets"
+summary: "Predict which Tweets are about real disasters and which ones are not"
 authors: []
 tags: []
 categories: []
-date: 2020-01-28T06:04:11-06:00
+date: 2020-03-03T06:04:11-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,4 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Using k-means clustering and the Foursquare API to segment and cluster the neighborhoods of UpTown Dallas with their geodata (latitud and longitud) to find apartments for rent in Uptown area (based on price, life style, shopping, and venues). 
+Practice Classifier by Participate in the kaggle competition. 
+
