@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/AmnahAli/Coursera_Capstone"
+url_code: "http://localhost:8888/notebooks/Python_Project/NLP_1.ipynb#Perdict"
 url_pdf: ""
 url_slides: ""
 url_video: ""
