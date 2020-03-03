@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "http://localhost:8888/notebooks/Python_Project/NLP_1.ipynb#Perdict"
+url_code: "http://localhost:8888/notebooks/Python_Project/Amnah_Practice_Classifier_NLP.ipynb"
 url_pdf: ""
 url_slides: ""
 url_video: ""
