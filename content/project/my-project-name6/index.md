@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
   focal_point: ""
   preview_only: false
 
@@ -40,4 +40,6 @@ url_video: ""
 slides: ""
 ---
 Practice Classifier by Participate in the kaggle competition. 
+
+https://www.kaggle.com/c/nlp-getting-started/leaderboard#score
 
