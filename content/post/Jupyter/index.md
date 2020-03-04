@@ -26,7 +26,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/Jupyter/index.ipynb"
+url_Jupyter_Notebook: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/Jupyter/index.ipynb"
 url_pdf: ""
 url_slides: ""
 url_video: ""
