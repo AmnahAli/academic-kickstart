@@ -1,9 +1,7 @@
 ---
 title: Real or Not? NLP with Disaster Tweets
 subtitle: LPredict which Tweets are about real disasters and which ones are not
-summary: The challenge is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. 
-For this compition we used Support Vector Machine to predict the target, we scored 0.75255 accuracy and number 1997 on the leaderboard.
-https://www.kaggle.com/c/nlp-getting-started/leaderboard#score
+summary: "The challenge is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. For this compition we used Support Vector Machine to predict the target, we scored 0.75255 accuracy and number 1997 on the leaderboard. https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
 
 authors:
 - admin
