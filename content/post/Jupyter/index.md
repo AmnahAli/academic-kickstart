@@ -40,19 +40,10 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This is classifier practices is one of Kaggle problems using machine learning methods for Natural Language Processing. 
-Leaderboard link: https://www.kaggle.com/c/nlp-getting-started/leaderboard#score
 
-
----
-title: "Real or Not? NLP with Disaster Tweets"
-subtitle: "Predict which Tweets are about real disasters and which ones are not"
-summary: "The challenge is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. For this compition we used Support Vector Machine to predict the target, we scored 0.75255 accuracy and number 1997 on the leaderboard. https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
-
----
 
 # About this Notebook
-## This is classifier practices on one of Kaggle problems using machine learning methods
+## This is classifier practices on one of Kaggle problems using machine learning methods for Natural Language Processing
 ##  Real or Not? NLP with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not
 https://www.kaggle.com/c/nlp-getting-started/leaderboard#score
