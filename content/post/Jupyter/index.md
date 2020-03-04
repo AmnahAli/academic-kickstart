@@ -15,10 +15,22 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "https://www.kaggle.com/c/nlp-getting-started/leaderboard#score"
+  caption: "https://www.kaggle.com/c/nlp-getting-started/overview"
   focal_point: ""
   
-  url_code: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/Jupyter/index.ipynb"
+# Custom links (optional).
+#  Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/Jupyter/index.ipynb"
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -26,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [my-project-name6]
+projects: []
 ---
-
-https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/Jupyter/index.ipynb
+This is classifier practices is one of Kaggle problems using machine learning methods for Natural Language Processing. 
+Leaderboard link: https://www.kaggle.com/c/nlp-getting-started/leaderboard#score
