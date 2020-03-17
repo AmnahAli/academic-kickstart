@@ -1,7 +1,7 @@
 
 ---
 title: "DATA MINING : Assigment 01"
-subtitle: "Predict for genersted dataset in assigment 01"
+subtitle: "Prediction model for genersted dataset in assigment 01"
 summary: " The model we choose for the data set is Polynomial regression of degree 9 with regularization parameter of alpha with a value equals to 1/10000"
 
 authors:
