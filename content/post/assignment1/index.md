@@ -41,7 +41,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## The assignment steps in not in exact order as described in the Syllabus, nonetheless every steps is well titled
+## The assignment steps are not in the exact order as described in the Syllabus, nonetheless every step is well titled
 
 
 ```python
