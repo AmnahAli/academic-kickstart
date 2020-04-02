@@ -2,7 +2,7 @@
 ---
 title: "DATA MINING : Assigment 02"
 subtitle: "Implementing Knn for IRIS dataset "
-summary: " In our case the optimal hyper-parameters we picked for this dataset using Knn is k=7 and cosine similarity metric with accuracy equal to 98%"
+summary: " In our case the optimal hyper-parameters we picked for this dataset using Knn is k=7 and cosine similarity metric, the accuracy equals to 98%"
 
 authors:
 - admin
