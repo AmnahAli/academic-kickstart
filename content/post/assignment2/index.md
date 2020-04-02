@@ -547,6 +547,6 @@ This dataset with multiple hyper-paramters gave a very similar accuracy in this 
 Also we picked cosine similarity. 
 
  References: 
-* *  https://arxiv.org/pdf/1708.04321.pdf
-* * https://www.kaggle.com/ptdrow/k-nearest-neighbors-classifier-from-scratch/data
-* * https://www.youtube.com/watch?v=GWHG3cS2PKc
+*   arxiv.org/pdf/1708.04321.pdf
+*   www.kaggle.com/ptdrow/k-nearest-neighbors-classifier-from-scratch/data
+*   www.youtube.com/watch?v=GWHG3cS2PKc
