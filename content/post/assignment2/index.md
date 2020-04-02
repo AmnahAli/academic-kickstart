@@ -279,10 +279,10 @@ def cosine_similarityi(x, y):       # cosine similarity
 
 def K_nearest_neighbor_E_D(predict, data, features, target, k):  
     row = data[features].apply(list,axis=1)                       # for each row convert data frame to a 4-dimensional point
-    distances = row.apply(lambda x: euclidean_distance(predict,x)) # calcuate distance for the point with each row
+    distances = row.apply(lambda x: euclidean_distance(predict,x)) # calculate distance for the point with each row
     neighbors = list(distances.sort_values()[:k].index)           # sort all the calculated distances, and take the the k-smallest distances 
     neighbors_votes = data.loc[neighbors, target]                 # indicate the take the the k-smallest distances class votes (labels)
-    vote = collections.Counter(neighbors_votes).most_common()[0][0]  # take the votes from the k nearest nighbours  
+    vote = collections.Counter(neighbors_votes).most_common()[0][0]  # take the votes from the k nearest neighbors  
     return vote                                                      # return (the most common) the first vote as the class label 
 
 
@@ -342,7 +342,7 @@ def all_predictions_E_D(k):
         for column in X.values:                                     
             xi.append(dict_row[column])                            # iterate through each feature
             result = K_nearest_neighbor_E_D(xi,iris_dev, X, y, k)  # predict each data point with the rest of the dataset 
-        predictions.append(result)                                 # add the result to the predictoin list
+        predictions.append(result)                                 # add the result to the prediction list
     return predictions
 
 
@@ -441,6 +441,15 @@ for i in range(len(k)):
     k= 1 	 98.0 %
     k= 3 	 96.66666666666667 %
     k= 5 	 96.66666666666667 %
+    k= 7 	 97.33333333333334 %
+    
+    
+    cosine similarity: 
+    
+    k= 1 	 98.0 %
+    k= 3 	 98.0 %
+    k= 5 	 98.0 %
+    k= 7 	 98.0 %
 
 
 
@@ -543,10 +552,10 @@ print("test accuracy:", final_accuracy)
     test accuracy: 98.0
 
 
-This dataset with multiple hyper-paramters gave a very similar accuracy in this case we picked the value of k= 7 which gave us accuracy = 97% using euclidean_distance and normalized euclidean distance and 98% using cosine. 
+This dataset with multiple hyper-paramters give a very similar accuracy in this case we picked the value of k= 7 which gave us accuracy = 97% using euclidean_distance and normalized euclidean distance and 98% using cosine. 
 Also we picked cosine similarity. 
 
  References: 
-*   arxiv.org/pdf/1708.04321.pdf
-*   www.kaggle.com/ptdrow/k-nearest-neighbors-classifier-from-scratch/data
-*   www.youtube.com/watch?v=GWHG3cS2PKc
+    * https://arxiv.org/pdf/1708.04321.pdf
+    * https://www.kaggle.com/ptdrow/k-nearest-neighbors-classifier-from-scratch/data
+    * https://www.youtube.com/watch?v=GWHG3cS2PKc
