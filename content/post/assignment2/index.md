@@ -1,3 +1,46 @@
+
+---
+title: "DATA MINING : Assigment 02"
+subtitle: "Implementing Knn for IRIS dataset "
+summary: " In our case the optimal hyper-parameters we picked for this dataset using Knn is k=7 and cosine similarity metric with accuracy equal to 98%"
+
+authors:
+- admin
+tags: []
+categories: []
+date: "2020-04-02"
+lastMod: ""
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+  
+# Custom links (optional).
+#  Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/assignment2/index.ipynb"
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 #  Assignment #2  :
  The goal of this assignment is to learn about the kNN.    Implementation of kNN Algorithm using Python.
 
@@ -500,7 +543,7 @@ print("test accuracy:", final_accuracy)
     test accuracy: 98.0
 
 
-This dataset with multiple hyper-paramters give a very similar accuracy in this case we picked the value of k= 7 which gave us accuracy = 97% using euclidean_distance and normalized euclidean distance and 98% using cosine. 
+This dataset with multiple hyper-paramters gave a very similar accuracy in this case we picked the value of k= 7 which gave us accuracy = 97% using euclidean_distance and normalized euclidean distance and 98% using cosine. 
 Also we picked cosine similarity. 
 
  References: 
