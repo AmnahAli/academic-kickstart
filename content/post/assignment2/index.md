@@ -543,8 +543,6 @@ ax.legend(loc="upper left")
 
 ```python
 k= 7
-K_nearest_neighbor_C_S(predict,iris_test, X, y, k)
-all_predictions_C_S(k)
 final_accuracy = accuracy_C_S(k)
 print("test accuracy:", final_accuracy)
 ```
