@@ -542,9 +542,16 @@ ax.legend(loc="upper left")
 
 
 ```python
-k= 7
-final_accuracy = accuracy_C_S(k)
-print("test accuracy:", final_accuracy)
+# iris_test
+
+predict = [7.3, 2.9, 6.3, 1.8]
+X = list(iris.columns[0:4])  
+y = iris.columns[4]  
+k = 7
+
+K_nearest_neighbor_C_S(predict, iris_test, X, y, k)
+all_predictions_C_S(k)
+print("test accuracy:", accuracy_C_S(k))
 ```
 
     test accuracy: 98.0
