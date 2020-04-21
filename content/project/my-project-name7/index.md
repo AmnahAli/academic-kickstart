@@ -46,7 +46,6 @@ Amnah Abdelrahman
 
 # CSE-5311 Project 
 
-(Design and Analysis ofAlgorithms)
 This project is a demonstration of a set of sorting algorithms. For each algorithm, there is an introduction, explanation of the code component, the running time complexity, when the algorithm is suitable to use, and improvement suggestions. After that, there will be the code itself followed by graphs representation and result discussion.
 
 ## Content :
@@ -1073,6 +1072,26 @@ We can see that the algorithm has O(n log n) time complexity, it almost has the 
 
 
 
+
+
+
+| Sorting Algorthim/Runing Time Complexity | Size n=6 | Size n=30 | 
+| --- | ---  | --- | 
+| Merge sort | 100000 loops, best of 3: 8.72 µs per loop  | 10000 loops, best of 3: 156 µs per loop | 
+| --- | ---  | --- | 
+| Heap sort | 100000 loops, best of 3: 8.44 µs per loop  | 10000 loops, best of 3: 158 µs per loop| 
+| --- | ---  | --- | 
+| Quicksort sort (Regular) | 100000 loops, best of 3: 6.33 µs per loop  | 1000 loops, best of 3: 281 µs per loop | 
+| --- | ---  | --- | 
+| Quicksort sort (3 median) | 100000 loops, best of 3: 5.87 µs per loop  | 10000 loops, best of 3: 121 µs per loop | 
+| --- | ---  | --- | 
+|Insertion sort | 1000000 loops, best of 3: 1.17 µs per loop  | 100000 loops, best of 3: 9.14 µs per loop | 
+| --- | ---  | --- | 
+| Selection sort | 100000 loops, best of 3: 3.12 µs per loop  | 10000 loops, best of 3: 133 µs per loop|
+| --- | ---  | --- | 
+| Bubble sort | 100000 loops, best of 3: 4.12 µs per loop | 1000 loops, best of 3: 275 µs per loop |
+
+Values in the above table may vary , it is just an appoximation
 
 ###   The Uniqueness, Differences and Similarities:
 
