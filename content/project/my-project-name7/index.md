@@ -29,8 +29,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+url_github: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/project/my-project-name7/index.ipynb"
 url_code: "http://localhost:8888/notebooks/Python_Project/Project_01%20(1).ipynb#"
-url_pdf: ""
 url_slides: ""
 url_video: ""
 
