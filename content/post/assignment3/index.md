@@ -889,17 +889,6 @@ for fold in k:
 
     ---------------------------------------------------------------------------
 
-    TypeError                                 Traceback (most recent call last)
-
-    <ipython-input-341-e0e6791ad37e> in <module>
-          2 predict_label_ = 0
-          3 for fold in k:
-    ----> 4     for row in fold[:,1]:
-          5         if row == int(classify('greate movie')):
-          6             predict_label_+=1
-
-
-    TypeError: list indices must be integers or slices, not tuple
 
 
 # (f) Using the test dataset
