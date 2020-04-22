@@ -78,18 +78,6 @@ import nltk
 ! wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 ```
 
-    --2020-04-21 04:40:52--  http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
-    Resolving ai.stanford.edu (ai.stanford.edu)... 171.64.68.10
-    Connecting to ai.stanford.edu (ai.stanford.edu)|171.64.68.10|:80... connected.
-    HTTP request sent, awaiting response... 200 OK
-    Length: 84125825 (80M) [application/x-gzip]
-    Saving to: ‘aclImdb_v1.tar.gz.2’
-    
-    aclImdb_v1.tar.gz.2 100%[===================>]  80.23M  19.2MB/s    in 8.5s    
-    
-    2020-04-21 04:41:01 (9.48 MB/s) - ‘aclImdb_v1.tar.gz.2’ saved [84125825/84125825]
-    
-
 
 
 ```python
