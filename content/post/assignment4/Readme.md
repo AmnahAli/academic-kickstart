@@ -1,7 +1,7 @@
 ### CSE-5334 Project
 ### Data Mininig 
 
-### BoardGameGeek Reviews: This report is written in Jupiter notebook,
+### BoardGameGeek Reviews: This report is written in Jupyter Notebook,
 ##### By: Amnah Abdelrahman
 ##### Date: May 11, 2020
 
