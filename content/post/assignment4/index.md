@@ -1,3 +1,47 @@
+---
+title: "DATA MINING : Project "
+subtitle: "BoardGameGeek Reviews"
+summary: " Prdict the rate given a user review, this is a final project for the Data Mining class,
+It is focused on Text classification"
+
+authors:
+- admin
+tags: []
+categories: []
+date: "2020-11-05"
+lastMod: ""
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+  
+# Custom links (optional).
+#  Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: "https://github.com/AmnahAli/academic-kickstart/blob/master/content/post/assignment4/index.ipynb"
+url_pdf: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=Te6MawFkHkM&t=394s"
+
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 <h3><font color='black'>Data Mining Project  </font></h3>
 Amnah Abdelrahman
 
@@ -2284,110 +2328,7 @@ print('The best model on training set has a RMSE of', round(final_rmse, 2))
     [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
     [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.4s
     [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-
-
     [Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    2.4s remaining:    0.0s
-
-
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.7s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.4s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.3s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.4s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.8s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.7s
-    [CV] n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=5, max_features=auto, max_depth=1, total=   2.6s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.6s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.6s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.6s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=1, total=   2.9s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  23.1s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  21.9s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  23.0s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  22.3s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  21.4s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  20.1s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  20.0s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  19.5s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  19.7s
-    [CV] n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23 
-    [CV]  n_estimators=65, min_samples_split=10, max_features=sqrt, max_depth=23, total=  19.7s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.7s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.0s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.8s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  11.9s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  13.3s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.4s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  12.5s
-    [CV] n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45 
-    [CV]  n_estimators=20, min_samples_split=10, max_features=auto, max_depth=45, total=  11.8s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.1s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.3s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.5s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.3s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.0s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.0s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.0s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  12.9s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.0s
-    [CV] n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1 
-    [CV]  n_estimators=155, min_samples_split=5, max_features=sqrt, max_depth=1, total=  13.1s
-
-
     [Parallel(n_jobs=1)]: Done  50 out of  50 | elapsed:  8.6min finished
 
 
