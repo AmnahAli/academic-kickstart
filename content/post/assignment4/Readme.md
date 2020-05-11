@@ -25,8 +25,11 @@ These instruction will guid to deploy the project in you local machine
 From your terminla you to install the follwing:
 
    * pip 3 installer [https://pip.pypa.io/en/stable/installing/]
+   ***
    * Python 3 [https://www.python.org/downloads/]
+   ***
    * SKlearn [https://scikit-learn.org/stable/install.html]
+   ***
    
 You can use this link for an easy steps [https://evansdianga.com/install-pip-osx/]
 
