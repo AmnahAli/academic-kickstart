@@ -1,3 +1,4 @@
+
 ---
 title: "DATA MINING : Project "
 subtitle: "BoardGameGeek Reviews"
@@ -8,7 +9,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: "2020-11-05"
+date: "2020-05-11"
 lastMod: ""
 featured: false
 draft: false
@@ -41,6 +42,7 @@ url_video: "https://www.youtube.com/watch?v=Te6MawFkHkM&t=394s"
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 
 ### Data Mining Project
 Amnah Abdelrahman
