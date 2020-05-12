@@ -91,7 +91,7 @@ The general sequence to build a prediction/classification model starts by unders
 
 This work is mainly our work, we read many blogs and websites to understand and grasp the general way to solve the problem. In terms of contribution, we set various model parameters and trials during different stages in this work, and the credits and citations are given for the implementation we learned from others.
 
-So let's start mining [ This work in Kaggle https://www.kaggle.com/oldelephant/term-project-data-mining]
+So let's start mining [https://www.kaggle.com/oldelephant/term-project-data-mining]
 
 
 
