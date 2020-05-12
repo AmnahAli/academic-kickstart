@@ -70,7 +70,7 @@ Amnah Abdelrahman
     * [Ensemble Model](#Ensemble_Model)
         * [Boosting Models](#Boosting_Models)
         * [Random Forest Classifier](#Random_Forest_Classifier) 
-    * [Convolutional Neural Network (Futuer work)](#Convolutional_Neural_Network) 
+    * [Recurrent Neural Network (Futuer work)](#Recurrent_Neural_Network) 
         
 * [hyperparameter Tuning ](#hyperparameter_Tuning)
      * [Grid Search Cross Validation](#GridSearchCV)
@@ -1472,7 +1472,7 @@ First of all, we started by building a classifiers/Regressor for:
 * [Ensemble Model](#Ensemble_Model)
     * [Bagging Models](#Bagging_Models)
     * [Random Forest Classifier](#Random_Forest_Classifier) 
-* [Convolutional Neural Network (CNN) (Futuer Work)](#Convolutional_Neural_Network)  
+* [Recurrent Neural Network (CNN) (Futuer Work)](#Recurrent_Neural_Network)  
 
 
 
