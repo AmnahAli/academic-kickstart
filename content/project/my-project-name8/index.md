@@ -40,4 +40,4 @@ url_video: "https://youtu.be/xd12hmnBsI"
 slides: ""
 ---
 Abstract:
-The App is a demonstarction of SDLC
+The App is a team work is a demonstarction of SDLC.
