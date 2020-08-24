@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Steganography: Hiding an image inside another, Kelvin Salton do Prado, Mar 17, 2018"
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/xd12hmnBsI"
+url_video: "https://www.youtube.com/watch?v=xd12hJmnBsI&feature=youtu.be"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -40,4 +40,4 @@ url_video: "https://youtu.be/xd12hmnBsI"
 slides: ""
 ---
 Abstract:
-The App is a team work is a demonstarction of SDLC.
+The App is a team work, it is a demonstarction of SDLC.
